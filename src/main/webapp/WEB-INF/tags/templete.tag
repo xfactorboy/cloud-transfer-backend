@@ -59,7 +59,7 @@
                     <!-- Navbar Menu -->
                     <ul class="nav-menu list-unstyled d-flex flex-md-row align-items-md-center">
                         <!-- Logout    -->
-                        <li class="nav-item"><a href="/logout" class="nav-link logout">Logout<i
+                        <li class="nav-item"><a href="/" class="nav-link logout">Logout<i
                                 class="fa fa-sign-out"></i></a></li>
                     </ul>
                 </div>
