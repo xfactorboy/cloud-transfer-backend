@@ -48,7 +48,7 @@
                 <div class="navbar-holder d-flex align-items-center justify-content-between">
                     <!-- Navbar Header-->
                     <div class="navbar-header">
-                        <!-- Navbar Brand --><a href="index.html" class="navbar-brand">
+                        <!-- Navbar Brand --><a href="https://google.com/" class="navbar-brand">
                         <div class="brand-text brand-big hidden-lg-down"><span>Save to</span> <strong>Drive</strong>
                         </div>
                         <div class="brand-text brand-small"><strong>SD</strong></div>
