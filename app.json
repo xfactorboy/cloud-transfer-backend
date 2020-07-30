@@ -7,11 +7,11 @@
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
-            "value": ""
+            "value": "417598933192-ort2d4n7q4u43btnt2ekpl1lbh7ceju4.apps.googleusercontent.com"
         },
         "client_secret": {
             "description": "Client Secret from Google Console (http://bit.ly/37ED7dv)",
-            "value": ""
+            "value": "4qy8JTPfruUKqKA7sg4eZOms"
         },
         "redirect_uri": {
             "description": "Your App URL eg. https://appname.herokuapp.com/api/oauth/google/callback (Replace this with your own)",
